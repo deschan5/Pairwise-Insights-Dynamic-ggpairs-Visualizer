@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "Pairwise Insights: Dynamic ggpairs Visualizer"
+message: "If you use Pairwise Insights in your work, please cite this repository."
+authors:
+  - family-names: Dziubek
+    given-names: Dejan
+    affiliation: former postdoc at LMU Munich
+    orcid: "https://orcid.org/0000-0002-XXXX-XXXX"   # <- Replace with your real ORCID if you have one
+date-released: 2024-05-22
+version: "1.0.0"
+license: GPL-3.0
+repository-code: "https://github.com/deschan5/Pairwise-Insights-Dynamic-ggpairs-Visualizer"
+url: "https://github.com/deschan5/Pairwise-Insights-Dynamic-ggpairs-Visualizer"
+type: software
+abstract: |
+  Pairwise Insights is an interactive Shiny app for generating customizable ggpairs visualizations.
+  It offers dynamic variable selection, flexible grouping, advanced smoothing, correlation matrices, and export options, enabling rapid and insightful exploratory data analysis for researchers and data analysts.
+
+keywords:
+  - Shiny
+  - ggpairs
+  - data visualization
+  - exploratory data analysis
+  - R
+  - correlation matrix
+  - interactive plotting
